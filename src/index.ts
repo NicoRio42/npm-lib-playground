@@ -1,3 +1,1 @@
-export function multiply(x: number, y: number): number {
-  return x * y;
-}
+export { multiply } from "./multiply.js";

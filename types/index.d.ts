@@ -1,2 +1,2 @@
-export declare function multiply(x: number, y: number): number;
+export { multiply } from "./multiply.js";
 //# sourceMappingURL=index.d.ts.map

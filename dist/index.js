@@ -1,4 +1,2 @@
-export function multiply(x, y) {
-    return x * y;
-}
+export { multiply } from "./multiply.js";
 //# sourceMappingURL=index.js.map
