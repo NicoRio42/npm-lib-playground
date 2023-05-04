@@ -1,3 +1,10 @@
 {
-  "compilerOptions": { "allowJs": true, "checkJs": true, "strict": true }
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "emitDeclarationOnly": true,
+    "declaration": true,
+    "declarationDir": "types"
+  }
 }
